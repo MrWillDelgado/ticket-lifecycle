@@ -63,7 +63,18 @@ When logged in as an agent you will be able to
   </ul>
 </p>
 <br />
+<P> Here is a playlist that explaines how to use OS Ticket after installation. The videos show common examples but you are welcome to explore further and use it as needed. </P>
 
+[![YouTube](http://i.ytimg.com/vi/ZQAovURdw8M/hqdefault.jpg)](https://www.youtube.com/watch?v=ZQAovURdw8M)
+[![YouTube](http://i.ytimg.com/vi/6hHCxhQ6_uk/hqdefault.jpg)](https://www.youtube.com/watch?v=6hHCxhQ6_uk)
+[![YouTube](http://i.ytimg.com/vi/IvIdFh1qOPg/hqdefault.jpg)](https://www.youtube.com/watch?v=IvIdFh1qOPg)
+[![YouTube](http://i.ytimg.com/vi/_xOld_wMHwA/hqdefault.jpg)](https://www.youtube.com/watch?v=_xOld_wMHwA)
+[![YouTube](http://i.ytimg.com/vi/_xOld_wMHwA/hqdefault.jpg)](https://www.youtube.com/watch?v=_xOld_wMHwA)
+[![YouTube](http://i.ytimg.com/vi/CIZgsCpCD6c/hqdefault.jpg)](https://www.youtube.com/watch?v=CIZgsCpCD6c)
+[![YouTube](http://i.ytimg.com/vi/HfR3YbVm2kg/hqdefault.jpg)](https://www.youtube.com/watch?v=HfR3YbVm2kg)
+[![YouTube](http://i.ytimg.com/vi/gSuw2uD58Ik/hqdefault.jpg)](https://www.youtube.com/watch?v=gSuw2uD58Ik)
+[![YouTube](http://i.ytimg.com/vi/67w4zardf6k/hqdefault.jpg)](https://www.youtube.com/watch?v=67w4zardf6k)
+[![YouTube](http://i.ytimg.com/vi/f-jdZsv0ebY/hqdefault.jpg)](https://www.youtube.com/watch?v=f-jdZsv0ebY)
 
 
 
