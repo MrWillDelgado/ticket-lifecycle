@@ -42,11 +42,11 @@ Before you login to OS Ticket, one must know if you have Agent or Admin Rolls.  
 </p>
 <p>
 Once logged as "ADMIN" in you will be able to:
-<ul> <li>View all tickter</li>
+<ul> <li>View All Tickets</li>
   <li>Assign Tickets to Agents</li>
-  <li>Transfer tickets to different teams</li>
-  <li>Assign and Re-Assign roles to agents</li>
-  <li>Assign team to different departments</li></ul>  
+  <li>Transfer Tickets To Different Teams</li>
+  <li>Assign and Re-Assign Roles to Agents</li>
+  <li>Assign Teams To Different Departments</li></ul>  
 </p>
 <br />
 
